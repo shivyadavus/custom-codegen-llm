@@ -1,10 +1,1 @@
-"""
-Another example snippet that could be part of your training data.
-Could include design docs, test suites, or code excerpts.
-"""
-
-def add_numbers(a, b):
-    """
-    Adds two numbers and returns the result.
-    """
-    return a + b
+""" Another example snippet that could be part of your training data. Could include design docs, test suites, or code excerpts. """ def add_numbers(a, b): """ Adds two numbers and returns the result. """ return a + b
