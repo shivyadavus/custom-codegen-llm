@@ -1,5 +1,5 @@
 
-# My LLM Codegen
+# My Custom LLM Codegen
 
 A GPT-style model trained on my GitHub repositories for specialized code completion and Q&A. 
 
