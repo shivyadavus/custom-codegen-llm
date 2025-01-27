@@ -1,0 +1,5 @@
+# This is a sample Python function. 
+# In a real scenario, you would include actual code from your repositories.
+
+def greet(name):
+    return f"Hello, {name}!"
