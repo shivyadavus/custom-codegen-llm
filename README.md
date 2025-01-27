@@ -34,7 +34,7 @@ A GPT-style model trained on my GitHub repositories for specialized code complet
    ```
 
 ## License
-Specify your project license here.
+MIT
 
 ## References
 - [Hugging Face Transformers](https://github.com/huggingface/transformers)
